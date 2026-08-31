@@ -8,47 +8,66 @@
     Adapted for: Mariana Moreira
 -->
 
-<!-- Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050C12,50:111111,100:050C12&height=180&section=header&text=MARIANA%20MOREIRA&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Developer&descAlignY=55&descSize=18" width="100%"/>
-</div>
+<!-- ===================================================== -->
+<!-- BANNER -->
+<!-- ===================================================== -->
 
-<br/>
-
-<!-- Profile badges -->
 <div align="center">
 
-  <a href="https://github.com/Maahh-Moreira">
-    <img width="120px" 
-        alt="Stars" 
-        title="Stars Profile" 
-        src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=000000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/MarianaMoreira" />
-  </a>
-
-  <a href="https://github.com/Maahh-Moreira">
-    <img width="115px" 
-        alt="Views" 
-        title="Profile Views" 
-        src="https://komarev.com/ghpvc/?username=MarianaMoreira&label=Views&color=000000&style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/Maahh-Moreira">
-    <img width="140px" 
-        alt="Followers" 
-        title="Github Followers" 
-        src="https://custom-icon-badges.demolab.com/github/followers/MarianaMoreira?color=000000&labelColor=ffffff&style=for-the-badge&logo=person-add&label=Followers&logoColor=000000" />
-  </a>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050C12,50:111111,100:050C12&height=180&section=header&text=MARIANA%20MOREIRA&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Developer&descAlignY=55&descSize=18"
+    width="100%"
+  />
 
 </div>
 
 <br/>
 
-<!-- Who am I? -->
-<img 
-  src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" 
-  width="320" 
-  align="left" 
-  style="filter: grayscale(100%)"
+<!-- ===================================================== -->
+<!-- PROFILE BADGES -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+  <a href="https://github.com/Maahh-Moreira">
+    <img
+      width="120px"
+      alt="Stars"
+      title="Stars Profile"
+      src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=000000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Maahh-Moreira"
+    />
+  </a>
+
+  <a href="https://github.com/Maahh-Moreira">
+    <img
+      width="115px"
+      alt="Views"
+      title="Profile Views"
+      src="https://komarev.com/ghpvc/?username=Maahh-Moreira&label=Views&color=000000&style=for-the-badge"
+    />
+  </a>
+
+  <a href="https://github.com/Maahh-Moreira">
+    <img
+      width="140px"
+      alt="Followers"
+      title="Github Followers"
+      src="https://custom-icon-badges.demolab.com/github/followers/Maahh-Moreira?color=000000&labelColor=ffffff&style=for-the-badge&logo=person-add&label=Followers&logoColor=000000"
+    />
+  </a>
+
+</div>
+
+<br/>
+
+<!-- ===================================================== -->
+<!-- WHO AM I -->
+<!-- ===================================================== -->
+
+<img
+  src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif"
+  width="320"
+  align="left"
 />
 
 <div align="center">
@@ -73,24 +92,26 @@ Currently, my goal is simple: **keep learning, keep building, and become a bette
 
 <br/><br/>
 
-<!-- Social -->
+
 <div align="center">
 
   **You can click here**
 
-  <a href="https://github.com/MarianaMoreira">
-    <img 
+  <br/>
+
+  <a href="https://github.com/Maahh-Moreira">
+    <img
       width="110px"
-      src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" 
+      src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
       title="My GitHub"
     />
   </a>
 
   <a href="https://www.linkedin.com/in/mariana-aparecida-peguim-moreira-084060394">
-    <img 
+    <img
       width="110px"
-      src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" 
+      src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
       title="My LinkedIn"
     />
@@ -100,8 +121,15 @@ Currently, my goal is simple: **keep learning, keep building, and become a bette
 
 <br/>
 
-<!-- Curious -->
-<img src="bananinha.png" width="300" align="right"/>
+<!-- ===================================================== -->
+<!-- BEHIND THE CODE -->
+<!-- ===================================================== -->
+
+<img
+  src="bananinha.png"
+  width="300"
+  align="right"
+/>
 
 > [!NOTE]
 >
@@ -115,67 +143,71 @@ Currently, my goal is simple: **keep learning, keep building, and become a bette
 
 <br clear="both"/>
 
-<!-- My contributions title -->
+<!-- ====================================================== -->
+<!-- MY CONTRIBUTIONS -->
+<!-- ====================================================== -->
+
 <div align="center">
+
   <h3>My Contributions</h3>
+
 </div>
 
-<br clear="both"/>
+<br/>
 
-<!-- Skills + Stats side by side -->
-<table align="center">
+
+<table align="center" width="100%">
+
 <tr>
 
-<!-- TECH STACK -->
 <td width="50%" valign="top" align="center">
 
 <b>Tech Stack</b>
 
-<br/><br/>
 
-<table align="center">
-<tr>
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,python,php"
+  alt="HTML CSS JavaScript Python PHP"
+/>
 
-<!-- Languages -->
-<td align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php" /><br/>
-<img src="https://skillicons.dev/icons?i=cs,git,github,arduino,mongodb" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,vscode,discord,androidstudio" />
+<img
+  src="https://skillicons.dev/icons?i=cs,git,github,arduino,mongodb"
+  alt="C Sharp Git GitHub Arduino MongoDB"
+/>
+
+<img
+  src="https://skillicons.dev/icons?i=mysql,postgres,vscode,discord,androidstudio"
+  alt="MySQL PostgreSQL VSCode Discord Android Studio"
+/>
 
 </td>
 
-</tr>
-</table>
-
-</td>
-
-<!-- LATEST ACTIVITY -->
 <td width="50%" valign="top" align="center">
 
-<b>Latest Activity</b>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MarianaMoreira&theme=dark&background=0D0D0D&ring=ffffff&fire=ffffff&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&card_width=340)](https://git.io/streak-stats)
+<b>Contribution Streak</b>
 
 <br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=Maahh-Moreira&theme=dark&background=0D0D0D&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa"
+  width="90%"
+  alt="GitHub Contribution Streak"
+/>
 
 </td>
 
 </tr>
+
 </table>
 
 <br/>
 
-<!-- Footer -->
 <div align="center">
-  <img 
+
+  <img
     src="https://capsule-render.vercel.app/api?type=waving&color=050C12&height=100&section=footer"
     width="100%"
   />
-</div>
 
-<div align="center">
-  <sub>Mariana Moreira · Developer</sub>
 </div>
