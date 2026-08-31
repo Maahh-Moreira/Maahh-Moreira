@@ -18,21 +18,21 @@
 <!-- Profile badges -->
 <div align="center">
 
-  <a href="https://github.com/MarianaMoreira">
+  <a href="https://github.com/Maahh-Moreira">
     <img width="120px" 
         alt="Stars" 
         title="Stars Profile" 
         src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=000000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/MarianaMoreira" />
   </a>
 
-  <a href="https://github.com/MarianaMoreira">
+  <a href="https://github.com/Maahh-Moreira">
     <img width="115px" 
         alt="Views" 
         title="Profile Views" 
         src="https://komarev.com/ghpvc/?username=MarianaMoreira&label=Views&color=000000&style=for-the-badge" />
   </a>
 
-  <a href="https://github.com/MarianaMoreira">
+  <a href="https://github.com/Maahh-Moreira">
     <img width="140px" 
         alt="Followers" 
         title="Github Followers" 
