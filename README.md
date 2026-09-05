@@ -8,9 +8,6 @@
     Adapted for: Mariana Moreira
 -->
 
-<!-- ===================================================== -->
-<!-- BANNER -->
-<!-- ===================================================== -->
 
 <div align="center">
 
@@ -23,9 +20,6 @@
 
 <br/>
 
-<!-- ===================================================== -->
-<!-- PROFILE BADGES -->
-<!-- ===================================================== -->
 
 <div align="center">
 
@@ -59,10 +53,6 @@
 </div>
 
 <br/>
-
-<!-- ===================================================== -->
-<!-- WHO AM I -->
-<!-- ===================================================== -->
 
 <img
   src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif"
@@ -121,10 +111,6 @@ Currently, my goal is simple: **keep learning, keep building, and become a bette
 
 <br/>
 
-<!-- ===================================================== -->
-<!-- BEHIND THE CODE -->
-<!-- ===================================================== -->
-
 <img
   src="bananinha.png"
   width="300"
@@ -142,10 +128,6 @@ Currently, my goal is simple: **keep learning, keep building, and become a bette
 <br/>
 
 <br clear="both"/>
-
-<!-- ====================================================== -->
-<!-- MY CONTRIBUTIONS -->
-<!-- ====================================================== -->
 
 <div align="center">
 
@@ -190,7 +172,7 @@ Currently, my goal is simple: **keep learning, keep building, and become a bette
 <br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=Maahh-Moreira&theme=dark&background=0D0D0D&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa"
+  src="https://streak-stats.demolab.com?user=Maahh-Moreira&theme=dark&background=0D1117&border=0d1117&stroke=0d1117&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&sideNums=93C5FD&currStreakLabel=3B82F6&sideLabels=93C5FD&dates=64748B"
   width="90%"
   alt="GitHub Contribution Streak"
 />
