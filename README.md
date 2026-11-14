@@ -17,6 +17,7 @@
   </a>
 </div>
 <div align="center">
+  <br>
   <big><big><strong>Who Am I?</strong></big></big><br>
   <img src="./assets/underline.svg" alt="sublinhado roxo" width="170" />
 </div><table align="center" width="100%">
@@ -33,7 +34,8 @@
   </tr>
 </table>
 <div align="center">
-  <big><big><strong>You can Click here</strong></big></big>
+  <big><big><strong>You can Click here</strong></big></big><br>
+  <img src="./assets/underline.svg" alt="sublinhado roxo" width="170" />
   <br><br>  <a href="https://www.linkedin.com/in/mariana-aparecida-peguim-moreira-084060394/">
     <img src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
@@ -42,7 +44,7 @@
     <img src="https://img.shields.io/badge/GMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail" />
   </a>
 </div>
-
+<br>
 <table align="center">
   <tr>
     <td valign="top">
